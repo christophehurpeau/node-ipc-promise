@@ -4,7 +4,7 @@
   "description": "A Node.js tool for ipc in promise style",
   "main": "./lib/ipc.js",
   "scripts": {
-    "test": "mocha $(node --v8-options | grep harmony | awk '{print $1}' | xargs) './test/index.js' --require should || true"
+    "test": "mocha './test/index.js' --require should || true"
   },
   "repository": {
     "type": "git",
