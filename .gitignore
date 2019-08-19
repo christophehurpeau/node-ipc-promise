@@ -34,3 +34,6 @@ node_modules
 
 # my ignores
 playground
+.vscode/.history
+.DS_STORE
+.babelrc
