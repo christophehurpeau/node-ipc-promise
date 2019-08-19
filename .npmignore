@@ -36,6 +36,7 @@ node_modules
 playground
 .vscode/.history
 .DS_STORE
+.babelrc
 
 
 # NPMIGNORE ONLY
