@@ -1,5 +1,8 @@
 {
-  "name": "node-ipc-promise",
+  "name": "@chrp/node-ipc-promise",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "0.1.1",
   "description": "A Node.js tool for ipc in promise style",
   "main": "./lib/ipc.js",
